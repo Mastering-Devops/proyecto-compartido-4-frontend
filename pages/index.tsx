@@ -26,7 +26,6 @@ const Home = ({ houses }: Props) => {
       </Head>
 
       <main className={styles.main}>
-        <Image src="/logo-horizontal.png" alt="Dolar en perú logo" width="250" height="75"  />
         <h1 className={styles.title}>
         Tiendas de cambio online en Perú
         </h1>
